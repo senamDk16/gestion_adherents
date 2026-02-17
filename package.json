@@ -1,0 +1,20 @@
+{
+  "name": "gestion_adherents",
+  "version": "1.0.0",
+  "description": "gestion des adherents",
+  "homepage": "https://github.com/senamDk16/gestion_adherents#readme",
+  "bugs": {
+    "url": "https://github.com/senamDk16/gestion_adherents/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/senamDk16/gestion_adherents.git"
+  },
+  "license": "ISC",
+  "author": "Senam SEGNINOU",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
